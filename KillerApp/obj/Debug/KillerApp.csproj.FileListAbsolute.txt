@@ -1,0 +1,7 @@
+D:\KillerApp\KillerApp\bin\Debug\KillerApp.exe.config
+D:\KillerApp\KillerApp\bin\Debug\KillerApp.exe
+D:\KillerApp\KillerApp\bin\Debug\KillerApp.pdb
+D:\KillerApp\KillerApp\obj\Debug\KillerApp.csproj.CoreCompileInputs.cache
+D:\KillerApp\KillerApp\obj\Debug\KillerApp.exe
+D:\KillerApp\KillerApp\obj\Debug\KillerApp.pdb
+D:\KillerApp\KillerApp\obj\Debug\KillerApp.csprojAssemblyReference.cache
